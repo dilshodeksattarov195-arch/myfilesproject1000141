@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderstringify",
+        "uuid": 837399,
+        "checksum": "jpi35c"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
